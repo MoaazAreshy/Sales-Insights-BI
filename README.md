@@ -1,4 +1,4 @@
-# 🛒 Sales ETL Pipeline — Graduation Project
+# 🛒 Sales Analysis Project
 
 End-to-end analytics pipeline: **Python → SQL Server → Power BI**
 
