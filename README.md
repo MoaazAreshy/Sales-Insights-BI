@@ -10,7 +10,7 @@ End-to-end analytics pipeline: **Python → SQL Server → Power BI**
 📦 graduation-project/
 ├── 📓 Sales_ETL_Pipeline.ipynb    ← Python cleaning & loading
 ├── 📄 Sales_SQL_Queries.sql       ← 10 analytical SQL queries
-├── 📊 Dashboard.pbix              ← Power BI report
+├── 📊 Sales Analysis End-to-End BI Project.ipynb              ← Power BI report
 └── 📖 README.md
 ```
 
