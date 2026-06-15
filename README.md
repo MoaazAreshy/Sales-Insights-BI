@@ -191,4 +191,4 @@ November and December show a consistent spike in both sales and shipping costs a
 
 ## 👤 Author
 **Moaaz Areshy** — Data Analyst
-[![LinkedIn](https://www.linkedin.com/in/moaaz-ali-36238b2aa/)
+(https://www.linkedin.com/in/moaaz-ali-36238b2aa/)
